@@ -23,7 +23,7 @@ Lorekeeper is a framework for managing deviantART-based ARPGs/closed species mas
 
 # Setup
 
-Important: For those who are not familiar with web dev, please refer to the [Wiki](http://wiki.lorekeeper.me/index.php?title=Tutorial:_Setting_Up) for a much more detailed set of instructions!!
+Important: For those who are not familiar with web dev, please refer to the [Wiki](http://wiki.lorekeeper.me/index.php?title=Tutorial:_Setting_Up) for a much more detailed set of instructions!! 
 
 ## Obtain a copy of the code
 
